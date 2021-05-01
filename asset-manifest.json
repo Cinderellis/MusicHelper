@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/musichelper/static/css/main.54aaea4a.chunk.css",
+    "main.js": "/musichelper/static/js/main.1529bd41.chunk.js",
+    "main.js.map": "/musichelper/static/js/main.1529bd41.chunk.js.map",
+    "runtime-main.js": "/musichelper/static/js/runtime-main.b49a0f79.js",
+    "runtime-main.js.map": "/musichelper/static/js/runtime-main.b49a0f79.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/musichelper/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4e5c259d.chunk.js": "/musichelper/static/js/2.4e5c259d.chunk.js",
+    "static/js/2.4e5c259d.chunk.js.map": "/musichelper/static/js/2.4e5c259d.chunk.js.map",
+    "static/js/3.632a3588.chunk.js": "/musichelper/static/js/3.632a3588.chunk.js",
+    "static/js/3.632a3588.chunk.js.map": "/musichelper/static/js/3.632a3588.chunk.js.map",
+    "index.html": "/musichelper/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/musichelper/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.54aaea4a.chunk.css.map": "/musichelper/static/css/main.54aaea4a.chunk.css.map",
+    "static/js/2.4e5c259d.chunk.js.LICENSE.txt": "/musichelper/static/js/2.4e5c259d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b49a0f79.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4e5c259d.chunk.js",
+    "static/css/main.54aaea4a.chunk.css",
+    "static/js/main.1529bd41.chunk.js"
+  ]
+}
