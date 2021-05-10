@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/MusicHelper/static/css/main.cbdd4b1d.chunk.css",
-    "main.js": "/MusicHelper/static/js/main.77a50a0d.chunk.js",
-    "main.js.map": "/MusicHelper/static/js/main.77a50a0d.chunk.js.map",
+    "main.css": "/MusicHelper/static/css/main.46f27ced.chunk.css",
+    "main.js": "/MusicHelper/static/js/main.17522cb6.chunk.js",
+    "main.js.map": "/MusicHelper/static/js/main.17522cb6.chunk.js.map",
     "runtime-main.js": "/MusicHelper/static/js/runtime-main.60d215f6.js",
     "runtime-main.js.map": "/MusicHelper/static/js/runtime-main.60d215f6.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/MusicHelper/static/css/2.4c97ca4f.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.632a3588.chunk.js.map": "/MusicHelper/static/js/3.632a3588.chunk.js.map",
     "index.html": "/MusicHelper/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/MusicHelper/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.cbdd4b1d.chunk.css.map": "/MusicHelper/static/css/main.cbdd4b1d.chunk.css.map",
+    "static/css/main.46f27ced.chunk.css.map": "/MusicHelper/static/css/main.46f27ced.chunk.css.map",
     "static/js/2.4e5c259d.chunk.js.LICENSE.txt": "/MusicHelper/static/js/2.4e5c259d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.60d215f6.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.4e5c259d.chunk.js",
-    "static/css/main.cbdd4b1d.chunk.css",
-    "static/js/main.77a50a0d.chunk.js"
+    "static/css/main.46f27ced.chunk.css",
+    "static/js/main.17522cb6.chunk.js"
   ]
 }
